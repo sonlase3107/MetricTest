@@ -1,7 +1,7 @@
 # SonLA Metric Test
-##1. Yêu Cầu
+## 1. Yêu Cầu
     Thực hiện Crawl data các sản phẩm theo các danh mục và transform thành file CSV
-##2. Tổng Quan Kết Quả
+## 2. Tổng Quan Kết Quả
     Thực hiện crawl dữ liệu từ Shopee bằng thư viện Selenium của Python, code luồng để trình duyệt driver chạy qua các trang có sản phẩm và truy xuất data thông qua thẻ HTML của trình duyệt
    ### a. Cấu trúc thư mục
         Do hiện tại thời gian ngắn nên mình để cấu trúc như sau:
